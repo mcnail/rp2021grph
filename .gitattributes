@@ -1,3 +1,4 @@
 *.spp filter=lfs diff=lfs merge=lfs -text
 *.umap filter=lfs diff=lfs merge=lfs -text
 *_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+D:/github/rp2021grph/3dOri/2021-09-06[[:space:]]12-04-42_Modular_3.mp4 filter=lfs diff=lfs merge=lfs -text
